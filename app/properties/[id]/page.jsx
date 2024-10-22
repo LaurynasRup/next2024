@@ -1,4 +1,4 @@
-const PropertyPage = () => {
+const PropertyPage = ({ params }) => {
   return <div>Property page</div>;
 };
 
